@@ -11,16 +11,10 @@
 <ol>
  <li><a target="_blank" href="https://unipass.customs.go.kr/csp/index.do" title="유니패스"><strong>유니패스</strong></a></li>
 <br><img src="해바라기.jpg" alt="유니패스" height="150" title="유니패스">
-      <ul>
-       <li><a href=" " title="Manual">업무매뉴얼</a></li>   
-      </ul>
 <br>
 
  <li><a target="_blank" href="https://www.pqis.go.kr/fe/portal/index.html" title="식검통"><strong>식물검역통합시스템</strong></a></li>
 <br><img src="튤립.jpg" alt="식물검역통합시스템" height="120" title="식물검역통합시스템">
-      <ul>
-       <li><a href=" " title="Manual">업무매뉴얼</li>
-      </ul>
 <br>
 
  <li><a target="_blank" href="http://www.qia.go.kr/bbs/dailyPlantOffi/listApxzWebAction.do?clear=1"><strong>일일검역관배정</strong></a></li>
@@ -39,6 +33,9 @@
 </p>
 
 <p style=">
+      <ul>
+       <li><a href=" " title="Manual">업무매뉴얼</li>
+      </ul>
  <img src=" " alt=" " title=" " height=" "><br><br><br>
 <hr>
 <br>
